@@ -1,5 +1,5 @@
 # 파손 차량 사진을 통한 수리비 예측
-
+### [상세내용](https://resonant-mapusaurus-297.notion.site/4e3945f73b1d4d078bda4e217114b8fa?pvs=4)
 #### 프로젝트 소개 
 
 기간 | 2023.03.31 ~ 2023.04.21
@@ -10,8 +10,6 @@
 사용 | Python, Google Colab, Roboflow, Yolo v8, 이미지 전처리(crop, zero-centering, re-size,...)
 참고 |  [Yolo v8 github](https://github.com/ultralytics/ultralytics)
 
-
-상세 내용은 [해당 링크](https://resonant-mapusaurus-297.notion.site/4e3945f73b1d4d078bda4e217114b8fa?pvs=4)에서 확인 가능
 
 **프로젝트 구성도**
 
